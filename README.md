@@ -1,3 +1,4 @@
+TALENT SPHERE
 Bu projede insan kaynakları otomasyonu benzeri bir uygulama geliştirilmiştir. Admin, Manager, Personel, Visitor
 rollerinin olduğu platformda; Admin rolü şirket ve şirket çalışma saatlerini oluşturur ve bu şirketlere Manager atar.
 Personellerin şirketi hakkında yapmış olduğu yorumları onaylar veya reddeder. Manager personel ekler, personel
